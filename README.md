@@ -10,7 +10,11 @@ Full breakdown of the rule can been found [here](https://playingcarddecks.com/bl
 
 # Installation
 
-<to be filled>
+Ensure that you have Git Bash enabled in your terminal. Then use this:
+
+```
+git clone git@github.com:Shaikhuli1/war_game.git
+```
 
 # How to use
 
